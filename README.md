@@ -1,9 +1,6 @@
 # iOS-Planner
 Developer: Jason Huang
 
-
-[Github Repository Link](https://github.com/thefireblade/cse390-hw2)
-
 iOS-Planner is a simple planner that allows you keep track of your tasks.
 
 # Current Features
